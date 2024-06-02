@@ -1,7 +1,9 @@
 # how to use it
-simply navigate your terminal on same directory where the file is 
 
-in terminal type `streamlit run main.py`
+**Step 1:** Creat New file name it eda_report.py
+**Step 2:** install necessery libraries by using `pip install pandas numpy matplotlib seaborn streamlit`
+**Step 3:** copy the code and pase it on your created file
+**Step 4:** open terminal and type `streamlit run eda_report.py`
 
 
 
